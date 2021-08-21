@@ -1,0 +1,21 @@
+*{
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  margin: auto;
+  background-color: #CAE4DB;
+
+}
+h1{
+  margin: auto;
+}
+#bill-amount{
+  margin: 10px 10px 10px 10px;
+}
+#cash-given{
+  margin: 10px 10px 10px 10px;
+}
